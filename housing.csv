@@ -999,7 +999,7 @@ price,size,bedrooms,age,style
 235000,3964,3,Between 6 and 10 years,Other
 108900,1755,3,Between 6 and 10 years,Other
 114500,1874,3,Between 6 and 10 years,Other
-115000,1998,3,Up to 5 ,Other
+115000,1998,3,Up to 5,Other
 105000,1724,3,Up to 5 years,Other
 108000,1681,3,Up to 5 years,Other
 125000,2092,3,Up to 5 years,Other
@@ -1008,7 +1008,7 @@ price,size,bedrooms,age,style
 112900,1272,3,Up to 5 years,Other
 96000,1640,3,Up to 5 years,Other
 165000,3251,3,Up to 5 years,Other
-114900,1918,3,Up to 5 ,Other
+114900,1918,3,Up to 5,Other
 160000,2410,3,Up to 5 years,Other
 195000,3348,3,Up to 5 years,Other
 105000,1962,3,Between 11 and 20 years,Other
@@ -1027,7 +1027,7 @@ price,size,bedrooms,age,style
 114900,3195,3,More than 20 years,Other
 126000,1404,3,Up to 5 years,Other
 142500,2212,3,Up to 5 years,Other
-52000,960,33,More than 20 ,Other
+52000,960,33,More than 20,Other
 184000,2028,3,Between 6 and 10 years,Other
 105000,1368,3,Up to 5 years,Other
 111000,1487,3,Between 11 and 20 years,Other
